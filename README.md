@@ -1,14 +1,14 @@
 # 🟢 SYSTEM INITIALIZING...
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=230&section=header&text=SAKIB%20ALL%20HASAN&fontSize=45&fontColor=00ff41&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=230&section=header&text=RAISUL%20HASAN%20RAJIN&fontSize=45&fontColor=00ff41&animation=blink" />
 </p>
 
 ---
 
 ## 🖥️ $ sudo boot --system
 
-```bash
+
 > Loading profile modules...
 > Establishing secure connection...
 > Checking developer status...
